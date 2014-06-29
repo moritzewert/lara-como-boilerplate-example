@@ -123,7 +123,6 @@ return array(
 		'Illuminate\Workbench\WorkbenchServiceProvider',
 
 		'Creolab\LaravelModules\ServiceProvider',
-		'Indatus\Dispatcher\ServiceProvider',
 
 	),
 
